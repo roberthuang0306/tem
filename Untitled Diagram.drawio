@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T18:08:10.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="06gTDKWicDqi4wOb6KY5" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T18:27:31.831Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="djzm0IdOTuGhsW_v6j7K" version="24.4.0" type="github">
   <diagram name="Page-1" id="ymLmdRIbzBYODP3hA8Bi">
-    <mxGraphModel dx="1491" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lxLlIVYKr5coCof-v2dZ-1" value="Real Data:&lt;div&gt;{arrangement, slack}&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.999996185302734;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-4" y="147" width="118" height="80" as="geometry" />
+        <mxCell id="lxLlIVYKr5coCof-v2dZ-1" value="Real Data:&lt;div&gt;{Best_arrangement, slack}&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.999996185302734;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="147" width="149" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lxLlIVYKr5coCof-v2dZ-4" value="Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="lxLlIVYKr5coCof-v2dZ-4" value="Generator&lt;div&gt;(GNN?)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-6" y="64" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lxLlIVYKr5coCof-v2dZ-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="lxLlIVYKr5coCof-v2dZ-4">
