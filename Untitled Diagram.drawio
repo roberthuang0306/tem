@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T04:00:41.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.4.9" etag="Iwl3CMKjrbuD80FMy_k7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T04:10:47.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="QOuD0yrJHAfEXDdAYLio" version="24.4.9" type="github">
   <diagram name="Page-1" id="IflpP7OtRGh52iY6lZaR">
-    <mxGraphModel>
+    <mxGraphModel dx="1157" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sFc21by1tOA49Sk7nZPZ-1" target="sFc21by1tOA49Sk7nZPZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-1" value="Pseudo-3D (commercial tool)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-156" y="41" width="101" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sFc21by1tOA49Sk7nZPZ-2" target="sFc21by1tOA49Sk7nZPZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-2" value="Partitioning&lt;div&gt;(min-cut)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="41" width="69" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="sFc21by1tOA49Sk7nZPZ-3" target="sFc21by1tOA49Sk7nZPZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-3" value="3D Global-Placement&lt;br&gt;&lt;div&gt;(DreamPlace w/ cell spreading/inflation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="29" width="127" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-4" value="the rest of Pin3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="41" width="70" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
