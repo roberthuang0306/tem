@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T17:31:34.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="gEmlyMK4dGKBtBwwfKGq" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-05T04:25:23.675Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="3siASKFO4uKTORP701Mv" version="24.4.13" type="github" pages="2">
   <diagram name="Page-1" id="IflpP7OtRGh52iY6lZaR">
-    <mxGraphModel dx="1301" dy="753" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1658" dy="1467" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,11 +19,11 @@
         <mxCell id="sFc21by1tOA49Sk7nZPZ-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="sFc21by1tOA49Sk7nZPZ-3" target="sFc21by1tOA49Sk7nZPZ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFc21by1tOA49Sk7nZPZ-3" value="3D Global-Placement&lt;br&gt;&lt;div&gt;(DreamPlace w/ cell spreading/inflation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-3" value="3D Global-Placement&lt;br&gt;&lt;div&gt;(commercial tool w/ learned-based cell spreading)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="68" y="29" width="127" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="sFc21by1tOA49Sk7nZPZ-4" value="the rest of Pin3D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="222" y="41" width="70" height="32" as="geometry" />
+        <mxCell id="sFc21by1tOA49Sk7nZPZ-4" value="Rest of Pin3D&amp;nbsp;&lt;div&gt;(detailed Placement+Routing+&lt;/div&gt;&lt;div&gt;Post Route Opt)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="222" y="28" width="167" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
